@@ -5,12 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on schoolwork.
-- 🌱 I’m currently learning how to use GitHub
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about running library programs
+- 🔭 I’m currently working on a MLIS program.
+- 🌱 I’m currently learning how to use GitHub.
+- 💬 Ask me about running library programs!
 - 📫 How to reach me: lsc72@drexel.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I ...
 -->
